@@ -16,7 +16,7 @@ module.exports = [
       var navbar = document.querySelector(".navbar");
       navbar.style.cssText="transition:top 300ms;top:33px";
       adBlockDetected_div.style.cssText = "position: fixed; top: 0; left: 0; width: 100%; background: #E01E5A; color: #fff; z-index: 9999999999; font-size: 14px; text-align: center; line-height: 1.5; font-weight: bold; padding-top: 6px; padding-bottom: 6px;";
-      adBlockDetected_div.innerHTML = "我们的广告服务商 <a style='color:#fff;text-decoration:underline' target='_blank' href='https://wwads.cn/page/end-user-privacy'>并不跟踪您的隐私</a>，为了支持本站的长期运营，请将我们的网站 <a style='color: #fff;text-decoration:underline' target='_blank' href='https://wwads.cn/page/whitelist-wwads'>加入广告拦截器的白名单</a>。";
+      adBlockDetected_div.innerHTML = "Our advertising service providers <a style='color:#fff;text-decoration:underline' target='_blank' href='https://wwads.cn/page/end-user-privacy'>do not track your privacy</a>,in order to support the long-term operation of this site,<a style='color: #fff;text-decoration:underline' target='_blank' href='https://wwads.cn/page/whitelist-wwads'>please add our website to the white list of ad blockers</a>.";
       document.getElementsByTagName("body")[0].appendChild(adBlockDetected_div);
       // add a close button to the right side of the div
       var adBlockDetected_close = document.createElement("div");

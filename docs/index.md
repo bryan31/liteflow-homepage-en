@@ -2,17 +2,17 @@
 home: true
 heroImage: /img/logo.svg
 heroText: LiteFlow
-tagline: 🚀轻量，快速，稳定可编排的组件式规则引擎
-actionText: 🧩新版本，全新规则表达式！
+tagline: 🚀Small but powerful rules engine
+actionText: 🧩New version, New expression language!
 actionLink: /pages/5816c5/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
-  - title: 🍀轻巧强大
-    details: 小身躯蕴藏着大能量，简单的学习成本，几分钟就能上手。却可以完成复杂的规则编排。
-  - title: 🌸优雅高效
-    details: 拥有独特的设计理念，所有逻辑皆为组件。稳定运行于各大公司的核心系统上，性能卓越。
-  - title: 🌼支持丰富
-    details: 不管你是何种架构，都能支持。任意编排，多种规则格式，平滑热刷新，多级嵌套，外部存储扩展等等。
+  - title: 🍀Lightweight & Powerful
+    details: The small body contains big energy, simple learning cost, a few minutes to get started. It can accomplish complex rule orchestration.
+  - title: 🌸Elegant & Efficient
+    details: All logic is component. Stable operation on the core systems of major companies with excellent performance.
+  - title: 🌼Rich Support
+    details: No matter what architecture you have, it's all supported. Rich features, including hot refresh, nested rules, external storage, etc.
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
@@ -27,12 +27,12 @@ notices: # 可选的
 
 <br/><br/>
 
-## 🌈特别赞助
+## 🌈Special Sponsors
 
 ::: cardList
 ```yaml
 - name: ERD Online
-  desc: 开箱即用的数据库建模、产品版本管理软件
+  desc: Out-of-the-box database modeling, product version management software.
   avatar: /img/donate/erd.png
   link: https://portal.zerocode.net.cn/
   bgColor: '#f8c567' # 可选，默认var(--bodyBg)。颜色值有#号时请添加单引号
@@ -43,7 +43,7 @@ notices: # 可选的
 <br/>
 
 <p align="center">
-  <a class="become-sponsor" href="/pages/fb599d/">成为赞助者</a>
+  <a class="become-sponsor" href="/pages/fb599d/">Become Sponsor</a>
 </p>
 
 <style>
@@ -59,24 +59,24 @@ notices: # 可选的
 
 <br/>
 
-## 🍬特性
-* **组件定义统一：** 所有的逻辑都是组件，为所有的逻辑提供统一化的组件实现方式，小身材，大能量。
-* **规则轻量：** 基于规则文件来编排流程，学习规则入门只需要5分钟，一看既懂。
-* **规则多样化：** 规则支持xml、json、yml三种规则文件写法方式，喜欢哪种用哪个。
-* **任意编排：** 同步异步混编，再复杂的逻辑过程，利用LiteFlow的规则，都是很容易做到的，看规则文件就能知道逻辑是如何运转的。
-* **规则能从任意地方加载：** 框架中提供本地文件配置源和zk配置源的实现，也提供了扩展接口，您可以把规则存储在任何地方。
-* **优雅热刷新机制：** 规则变化，无需重启您的应用，即时改变应用的规则。高并发下不会因为刷新规则导致正在执行的规则有任何错乱。
-* **支持广泛：** 不管你的项目是不是基于Springboot，Spring还是任何其他java框架构建，LiteFlow都能游刃有余。
-* **JDK支持：** 从JDK8到JDK17，统统支持。无需担心JDK版本。
-* **脚本语言支持：** 可以定义脚本语言节点，支持QLExpress和Groovy两种脚本。未来还会支持更多的脚本语言。
-* **规则嵌套支持：** 只要你想的出，你可以利用简单的表达式完成多重嵌套的复杂逻辑编排。
-* **组件重试支持：** 组件可以支持重试，每个组件均可自定义重试配置和指定异常。
-* **上下文隔离机制：** 可靠的上下文隔离机制，你无需担心高并发情况下的数据串流。
-* **声明式组件支持：** 你可以让你的任意类秒变组件。
-* **详细的步骤信息：** 你的链路如何执行的，每个组件耗时多少，报了什么错，一目了然。
-* **稳定可靠：** 历时2年多的迭代，在各大公司的核心系统上稳定运行。
-* **性能卓越：** 框架本身几乎不消耗额外性能，性能取决你的组件执行效率。
-* **自带简单监控：** 框架内自带一个命令行的监控，能够知道每个组件的运行耗时排行。
+## 🍬Features
+* **<font color=#E01E5A>Unified component definition:</font>** All logic is components, providing a unified way of component implementation for all logic, small size, big power.
+* **<font color=#E01E5A>Lightweight rules:</font>** Based on the rules file to orchestrate the process, it only takes 5 minutes to learn the rules to get started.
+* **<font color=#E01E5A>Multiple formats:</font>** The rules support xml, json and yml.
+* **<font color=#E01E5A>Arbitrary arrangement:</font>** With LiteFlow rules you can easily do synchronous asynchronous mixing, and you can know how the logic works from the rules file.
+* **<font color=#E01E5A>Rules can be loaded from anywhere:</font>** The framework provides local file configuration source and zk configuration source implementation, also provides an extension interface, you can store the rules anywhere.
+* **<font color=#E01E5A>Hot Refresh:</font>** Rules change without restarting your application, changing the rules of your application instantly. Refreshing under high concurrency will not cause any misalignment.
+* **<font color=#E01E5A>Wide support:</font>** LiteFlow works regardless of whether your project is built on Springboot, Spring or any other java framework.
+* **<font color=#E01E5A>JDK Support:</font>** Support from JDK8 to JDK17. No need to worry about the JDK version.
+* **<font color=#E01E5A>Scripting language support:</font>** Support for defining scripting language nodes, supporting both QLExpress and Groovy scripts. More scripting languages will be supported in the future.
+* **<font color=#E01E5A>Rule nesting support:</font>** You can use simple expressions to accomplish complex logical arrangements with multiple nesting.
+* **<font color=#E01E5A>Component Retry Support:</font>** Components can support retries, and each component can be customized with retries configuration and specified exceptions.
+* **<font color=#E01E5A>Context isolation mechanism:</font>** Reliable context isolation mechanism, you don't need to worry about data misalignment in the case of high concurrency.
+* **<font color=#E01E5A>Declarative Component Support:</font>** You can make any class into a component.
+* **<font color=#E01E5A>Detailed step information:</font>** With the step information you can clearly know how the process is executed, how much time each component takes, what exceptions there are.
+* **<font color=#E01E5A>Stable and reliable:</font>** Over 2 years of iteration, stable operation on the core systems of major companies.
+* **<font color=#E01E5A>Excellent performance:</font>** LiteFlow consumes almost no additional performance, and performance depends on the efficiency of your component execution.
+* **<font color=#E01E5A>Simple Monitoring:</font>** LiteFlow has a command line monitor to know the running time ranking of each component.
 
 <br/>
 
@@ -90,32 +90,26 @@ notices: # 可选的
 </dependency>
 ```
 
-:::tip 新版本稳定吗？
+:::tip Is the new version stable?
 
-我们每一次发布版本，都会补充大量的测试用例。截止到目前，LiteFlow一共有880多个测试用例，几乎覆盖到每一个已有功能的细节点。
+Every time we release a version, we add a large number of test cases. Up to now, LiteFlow has more than 880 test cases, covering almost every detail point of existing features.
 
-并且我们会跑超大量的并发压力测试，以上所有的通过后，我们才会谨慎的提交代码覆盖主分支进行发版。
+And we also run a lot of concurrent stress tests, we will carefully submit the code for release only after all the test cases passed.
 
-你大可不必担心新版本不稳定的情况，况且，我们有良好的社区群。基本上有问必答，如出现bug，基本上隔天必解决。
+You don't have to worry about the instability of the new version, we have a good community group. Questions will be answered as soon as possible, and if there are bugs, they will be solved the next day.
 
-所以，请放心的使用！
+So, use it!
 :::
 
 <br/>
 
-## 🎉致谢
+## 🎉Thanks
 
-LiteFlow自从2020年开源以来，获得了很多人的支持。目前社区群800多人，Gitee上2.2k Stars，Github上600多Stars，感谢各位支持者的一路同行，我们会努力把国产的规则引擎做到极致。
+LiteFlow won the "OSC Most Popular Chinese Open Source Software of the Year" award in [2021](https://www.oschina.net/project/top_cn_2021).
 
-LiteFlow在[2021](https://www.oschina.net/project/top_cn_2021)获得“OSC 年度最受欢迎中国开源软件”殊荣。
+LiteFlow received the "Gitee Most Valuable Open Source Project" award (GVP) in 2022.
 
-LiteFlow在2022年获得“Gitee最有价值开源项目“奖项（GVP）。
-
-感谢OSCHINA和Gitee官方平台对LiteFlow项目的推荐和肯定。
-
-LiteFlow首页的背景由插画师`森阳`提供，感谢她的创作，如需要插画商业合作小伙伴可以联系她：
-
-> 邮件：sssenyang@qq.com | 微信：ArtSenyang
+Thanks to OSCHINA and Gitee official platform for recommending and recognizing LiteFlow project.
 
 <br/>
 
@@ -131,21 +125,140 @@ LiteFlow首页的背景由插画师`森阳`提供，感谢她的创作，如需�
 
 <br/><br/>
 
-## 💪🏻参与开发
+## 💪🏻Contribute Code
 
-欢迎各路好汉一起来参与完善 LiteFlow，我们期待你的 PR！
+We welcome all developers to join us in improving LiteFlow, and we look forward to your PRs!
 
-如果想贡献，请先查看[参与开发](/pages/ae4dd5/)。
+If you want to contribute, please see [Contribute Code](/pages/ae4dd5/) first.
 
 <br/>
 
-## 🍭架构图
+## 🍭Architecture Diagram
 
 <img :src="$withBase('/img/arch.png')" style="zoom: 120%" class="no-zoom">
 
 <br/>
 
-## 🧲友情链接
+## 🐳Dromara Group Member
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/TLog" target="_blank">
+        <img :src="$withBase('/img/dromara/tlog-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/liteFlow" target="_blank">
+        <img :src="$withBase('/img/dromara/liteflow-logo.png')" class="no-zoom" style="height:40px;max-width:180px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/hutool" target="_blank">
+        <img :src="$withBase('/img/dromara/hutool-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/sa-token" target="_blank">
+        <img :src="$withBase('/img/dromara/satoken-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/hmily" target="_blank">
+        <img :src="$withBase('/img/dromara/hmily-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/Raincat" target="_blank">
+        <img :src="$withBase('/img/dromara/raincat-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/myth" target="_blank">
+        <img :src="$withBase('/img/dromara/myth-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/cubic" target="_blank">
+        <img :src="$withBase('/img/dromara/cubic-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/forest" target="_blank">
+        <img :src="$withBase('/img/dromara/forest-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/Jpom" target="_blank">
+        <img :src="$withBase('/img/dromara/jpom-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/sureness" target="_blank">
+        <img :src="$withBase('/img/dromara/sureness-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/easy-es" target="_blank">
+        <img :src="$withBase('/img/dromara/ee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/northstar" target="_blank">
+        <img :src="$withBase('/img/dromara/northstar-logo.png')" class="no-zoom" style="height:40px;max-width:180px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/hertzbeat" target="_blank">
+        <img :src="$withBase('/img/dromara/hertzbeat-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/dynamic-tp" target="_blank">
+        <img :src="$withBase('/img/dromara/dynamictp-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/mendmix" target="_blank">
+        <img :src="$withBase('/img/dromara/mendmix-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/koalas-rpc" target="_blank">
+        <img :src="$withBase('/img/dromara/koalas-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/MaxKey" target="_blank">
+        <img :src="$withBase('/img/dromara/maxkey-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/gobrs-async" target="_blank">
+        <img :src="$withBase('/img/dromara/gobrsasync-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/fast-request" target="_blank">
+        <img :src="$withBase('/img/dromara/fastrequest-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/x-easypdf" target="_blank">
+        <img :src="$withBase('/img/dromara/xeasypdf-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/image-combiner" target="_blank">
+        <img :src="$withBase('/img/dromara/imagecombiner-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+<span style="width: 150px;text-align: left">
+    <a href="https://gitee.com/dromara/dante-cloud" target="_blank">
+        <img :src="$withBase('/img/dromara/dantecloud-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
+    </a>
+</span>
+
+<br/>
+
+## 🧲Link
 <span style="width: 150px;flex:1;text-align: left">
     <a href="https://gitee.com" target="_blank">
         <img :src="$withBase('/img/link/gitee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
@@ -157,46 +270,6 @@ LiteFlow首页的背景由插画师`森阳`提供，感谢她的创作，如需�
     </a>
 </span>
 <span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/TLog" target="_blank">
-        <img :src="$withBase('/img/link/tlog-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/sa-token" target="_blank">
-        <img :src="$withBase('/img/link/satoken-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/sureness" target="_blank">
-        <img :src="$withBase('/img/link/sureness-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/hutool" target="_blank">
-        <img :src="$withBase('/img/link/hutool-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/forest" target="_blank">
-        <img :src="$withBase('/img/link/forest-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/Jpom" target="_blank">
-        <img :src="$withBase('/img/link/jpom-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/MaxKey" target="_blank">
-        <img :src="$withBase('/img/link/maxkey-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/easy-es/" target="_blank">
-        <img :src="$withBase('/img/link/ee-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
     <a href="http://www.layui-vue.com/zh-CN/index" target="_blank">
         <img :src="$withBase('/img/link/layui-vue.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
     </a>
@@ -204,11 +277,6 @@ LiteFlow首页的背景由插画师`森阳`提供，感谢她的创作，如需�
 <span style="width: 150px;text-align: left">
     <a href="http://www.pearadmin.com/" target="_blank">
         <img :src="$withBase('/img/link/pearAdmin-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
-    </a>
-</span>
-<span style="width: 150px;text-align: left">
-    <a href="https://gitee.com/dromara/northstar" target="_blank">
-        <img :src="$withBase('/img/link/northstar-logo.png')" class="no-zoom" style="height:40px;max-width:150px;margin: 10px;">
     </a>
 </span>
 <span style="width: 150px;text-align: left">
