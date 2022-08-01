@@ -4,14 +4,12 @@ module.exports = [
     { text: '⛑QA', link: '/pages/845dff/' },
     { text: '💖Donation', link: '/pages/fb599d/' },
     { text: '🚀Plugin', link: '/pages/liteflowx/' },
-    { text: '🔥PPT', link: '/pages/8d6666/' },
     { text: 'About', items: [
             { text: 'Project Introduction', link: '/pages/8d7f1e/'},
             { text: 'Update Record', link: '/pages/88c2d1/'},
         ]
     },
     { text: 'Community', link: '/pages/73c2c3/' },
-    { text: 'Contribute Code', link: '/pages/ae4dd5/' },
     { text: 'Users', link: '/pages/9b9f41/' },
     { text: 'Gitee', link: 'https://gitee.com/dromara/liteFlow' },
     { text: 'Github', link: 'https://github.com/dromara/liteflow' },
