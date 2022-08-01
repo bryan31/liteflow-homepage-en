@@ -7,7 +7,7 @@ module.exports = {
   theme: 'vdoing', // 使用依赖包主题
   title: "LiteFlow",
   description: '一个轻量，快速，稳定可编排的组件式规则引擎',
-  base: "/",
+  base: "/en/",
   head,
   themeConfig,
   plugins,
