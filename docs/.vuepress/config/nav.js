@@ -15,7 +15,7 @@ module.exports = [
     { text: 'Github', link: 'https://github.com/dromara/liteflow' },
     { text: 'Language', items: [
             { text: '简体中文', link: 'https://liteflow.yomahub.com/'},
-            { text: 'English', link: 'https://liteflow-en.yomahub.com/'},
+            { text: 'English', link: 'https://liteflow.yomahub.com/en'},
         ]
     },
 ];
