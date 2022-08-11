@@ -109,7 +109,7 @@ Thanks to OSCHINA and Gitee official platform for recommending and recognizing L
 
 <br/>
 
-## 🏡代码托管
+## 🏡Code hosting
 
 <a href='https://gitee.com/dromara/liteFlow' target="_blank">
     <img class="no-zoom" src="https://img.shields.io/badge/Gitee-red?logo=gitee&logoColor=white&style=for-the-badge"/>
@@ -120,14 +120,6 @@ Thanks to OSCHINA and Gitee official platform for recommending and recognizing L
 </a>
 
 <br/><br/>
-
-## 💪🏻Contribute Code
-
-We welcome all developers to join us in improving LiteFlow, and we look forward to your PRs!
-
-If you want to contribute, please see [Contribute Code](/pages/ae4dd5/) first.
-
-<br/>
 
 ## 🍭Architecture Diagram
 
