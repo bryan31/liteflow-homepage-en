@@ -8,7 +8,7 @@ LiteFlow is a lightweight, fast, stable, and choreographable component-based rul
 
 If you have questions in use, you can join the group chat, and I will answer everyone's questions carefully.
 
-If you use WeChat, **you can follow my WeChat official account, click `personal WeChat`, and note `liteflow` when adding friends, and I will add you to the group. **
+If you use WeChat, **you can follow my WeChat official account, click `personal WeChat`, and note `liteflow` when adding friends, and I will add you to the group.**
 
 ![img](/img/offical-wx.jpg)
 
