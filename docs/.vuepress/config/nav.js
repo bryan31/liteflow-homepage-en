@@ -1,7 +1,6 @@
 module.exports = [
     { text: '💒Home', link: '/' },
     { text: '📚Documents', link: '/pages/5816c5/' },
-    { text: '⛑QA', link: '/pages/845dff/' },
     { text: '💖Donation', link: '/pages/fb599d/' },
     { text: '🚀Plugin', link: '/pages/liteflowx/' },
     { text: 'About', items: [
