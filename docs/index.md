@@ -76,7 +76,7 @@ postList: none
 
 <br/>
 
-## ✨最新版本
+## ✨Latest version
 
 ```xml
 <dependency>
