@@ -1,5 +1,5 @@
 ---
-title: 用户
+title: Users
 date: 2022-06-01 14:47:35
 permalink: /pages/9b9f41/
 ---
@@ -13,8 +13,8 @@ permalink: /pages/9b9f41/
 | [分期乐](http://www.fenqile.com)                        | ![分期乐](/img/users/fenqi.png)     | [广东越洋](http://www.cenyy.com/)        | ![广东越洋](/img/users/yueyang.png) |
 | [南博集团](http://www.gdnanbo.com/)                     | ![南博集团](/img/users/nanbo.png)   | [同程数科](https://lydigi.com)           | ![同程数科](/img/users/tcsk.png)    |
 
-::: tip 登记
+::: tip Register
 
-为了更好地为您提供服务,请在此[登记](https://gitee.com/dromara/liteFlow/issues/I3CM7N)。
+In order to serve you better, please [register] here(https://gitee.com/dromara/liteFlow/issues/I3CM7N)。
 
 :::

@@ -1,5 +1,5 @@
 ---
-title: 更新记录
+title: Update record
 date: 2022-06-01 14:31:18
 permalink: /pages/88c2d1/
 ---

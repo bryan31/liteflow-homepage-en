@@ -4,7 +4,7 @@ module.exports = [
     { text: '💖Donation', link: '/pages/fb599d/' },
     { text: '🚀Plugin', link: '/pages/liteflowx/' },
     { text: 'About', items: [
-            { text: 'Project Introduction', link: '/pages/8d7f1e/'},
+            { text: 'About LiteFlow', link: '/pages/8d7f1e/'},
             { text: 'Update Record', link: '/pages/88c2d1/'},
         ]
     },
