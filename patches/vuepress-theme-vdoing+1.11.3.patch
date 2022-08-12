@@ -43,3 +43,16 @@ index 93feac7..429934b 100644
      }
    },
  
+diff --git a/node_modules/vuepress-theme-vdoing/components/RightMenu.vue b/node_modules/vuepress-theme-vdoing/components/RightMenu.vue
+index 7934439..30744c2 100644
+--- a/node_modules/vuepress-theme-vdoing/components/RightMenu.vue
++++ b/node_modules/vuepress-theme-vdoing/components/RightMenu.vue
+@@ -1,7 +1,7 @@
+ <template>
+   <div class="right-menu-wrapper">
+     <div class="right-menu-margin">
+-      <div class="right-menu-title">目录</div>
++      <div class="right-menu-title">Contents</div>
+       <div class="right-menu-content">
+         <div
+           :class="[
