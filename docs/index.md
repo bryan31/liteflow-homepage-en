@@ -82,7 +82,7 @@ postList: none
 <dependency>
     <groupId>com.yomahub</groupId>
     <artifactId>liteflow-spring-boot-starter</artifactId>
-    <version>2.8.3</version>
+    <version>2.8.4</version>
 </dependency>
 ```
 
