@@ -12,6 +12,7 @@ permalink: /pages/9b9f41/
 | [鸿鹄科技](http://www.swanit.cn)                        | ![鸿鹄科技](/img/users/hhkj.png)    | [珍爱网](https://www.zhenai.com)         | ![珍爱网](/img/users/zhenai.png)    |
 | [分期乐](http://www.fenqile.com)                        | ![分期乐](/img/users/fenqi.png)     | [广东越洋](http://www.cenyy.com/)        | ![广东越洋](/img/users/yueyang.png) |
 | [南博集团](http://www.gdnanbo.com/)                     | ![南博集团](/img/users/nanbo.png)   | [同程数科](https://lydigi.com)           | ![同程数科](/img/users/tcsk.png)    |
+| [嘉信科技](https://www.jiaxintec.com/)                  | <img src="/img/users/jiaxin.png" alt="嘉信科技" style="height:40px;" /> | [跨越速运](https://www.ky-express.com/)  | ![跨越速运](/img/users/kuayue.png)  |
 
 ::: tip Register
 
