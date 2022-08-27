@@ -82,13 +82,13 @@ postList: none
 <dependency>
     <groupId>com.yomahub</groupId>
     <artifactId>liteflow-spring-boot-starter</artifactId>
-    <version>2.8.4</version>
+    <version>2.8.5</version>
 </dependency>
 ```
 
 :::tip Is the new version stable?
 
-Every time we release a version, we add a large number of test cases. Up to now, LiteFlow has more than 880 test cases, covering almost every detail point of existing features.
+Every time we release a version, we add a large number of test cases. Up to now, LiteFlow has more than 930 test cases, covering almost every detail point of existing features.
 
 And we also run a lot of concurrent stress tests, we will carefully submit the code for release only after all the test cases passed.
 
