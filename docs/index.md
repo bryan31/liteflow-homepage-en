@@ -230,17 +230,17 @@ Thanks to OSCHINA and Gitee official platform for recommending and recognizing L
 </span>
 <span style="width: 150px;text-align: left">
     <a href="https://gitee.com/dromara/x-easypdf" target="_blank">
-        <img :src="$withBase('/img/dromara/xeasypdf-logo.png')" class="no-zoom" style="height:40px;width:120px;margin: 10px;">
+        <img :src="$withBase('/img/dromara/xeasypdf-logo.png')" class="no-zoom" style="height:40px;width:170px;margin: 10px;">
     </a>
 </span>
 <span style="width: 150px;text-align: left">
     <a href="https://gitee.com/dromara/image-combiner" target="_blank">
-        <img :src="$withBase('/img/dromara/imagecombiner-logo.png')" class="no-zoom" style="height:40px;width:150px;margin: 10px;">
+        <img :src="$withBase('/img/dromara/imagecombiner-logo.png')" class="no-zoom" style="height:40px;width:170px;margin: 10px;">
     </a>
 </span>
 <span style="width: 150px;text-align: left">
     <a href="https://gitee.com/dromara/dante-cloud" target="_blank">
-        <img :src="$withBase('/img/dromara/dantecloud-logo.png')" class="no-zoom" style="height:40px;width:150px;margin: 10px;">
+        <img :src="$withBase('/img/dromara/dantecloud-logo.png')" class="no-zoom" style="height:40px;width:170px;margin: 10px;">
     </a>
 </span>
 
