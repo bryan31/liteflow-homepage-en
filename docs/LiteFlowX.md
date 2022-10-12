@@ -8,10 +8,8 @@ author:
 ---
 
 :::warning Notice
-- The LiteFlowX plugin version from `v1.0.0` will no longer support the features of LiteFlow `2.7.X` and below.
-
-- If you are using an older version of the LiteFlow framework, please [download the plugin jar package](https://gitee.com/liupeiqiang/LiteFlowX/releases/0.1.1) to install it yourself.
-
+- The LiteFlowX plugin version has been fully adapted to LiteFlow `v2.9.0` since `v1.1.0` and is backward compatible with all features of LiteFlow `v2.8.X`.
+- If you are still using LiteFlow `2.7.X` and below, you can download the [ LiteFlowX v0.1.1 Jar package ](https://gitee.com/liupeiqiang/LiteFlowX/releases/0.1.1) for installation
 - The plugin will focus on making changes and improvements to the latest version of the LiteFlow framework in the future. Please make sure you are using the latest LiteFlow framework before using this plugin.
 :::
 
@@ -58,12 +56,12 @@ If the plugin source code is helpful for your development, please [point a star]
 ```
 :::
 
-- Support LiteFlow 2.8.x new regular expression syntax (auto-suggestion, syntax highlighting, syntax detection)
-- Specific file Svg icons for easy identification of LiteFlow elements
-- Able to identify Component, Chain
-- Java code and Chain jump to each other
-- Jump between Xml files and LiteFlow elements
-- Provide LiteFLow toolbox, Component and Chain of the whole project, and support double-click jump
+- Fully adapt to all features of LiteFlow v2.9.x
+- Supports ELF regular expressions (autosuggestion, syntax highlighting, syntax detection)
+- Ability to identify components, links
+- Subdivided component type icons to make components clear at a glance
+- More intelligent automatic prompts, which can be subdivided into components and links
+- Provides LiteFlow toolbox, components and links of the entire project, and supports double-click jumping
 - Support file jump to liteflow.ruleSource property
 - ...more features to come
 
