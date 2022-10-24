@@ -3,7 +3,7 @@ home: true
 heroImage: /img/logo.svg
 heroText: LiteFlow
 tagline: 🚀Small but powerful rules engine
-actionText: 🧩Version 2.9.0, Many features are coming!
+actionText: 🧩Version 2.9.1 Release!
 actionLink: /pages/5816c5/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
@@ -20,38 +20,6 @@ postList: none
 ---
 
 <Notice :data="$frontmatter.notices"/>
-
-<br/><br/>
-
-## 🌈Special Sponsors
-
-::: cardList
-```yaml
-- name: ERD Online
-  desc: Out-of-the-box database modeling, product version management software.
-  avatar: /img/donate/erd.png
-  link: https://portal.zerocode.net.cn/
-  bgColor: '#f8c567' # 可选，默认var(--bodyBg)。颜色值有#号时请添加单引号
-  textColor: '#1f2328' # 可选，默认var(--textColor)
-
-```
-:::
-<br/>
-
-<p align="center">
-  <a class="become-sponsor" href="/pages/fb599d/">Become Sponsor</a>
-</p>
-
-<style>
-.become-sponsor{
-  padding: 8px 20px;
-  display: inline-block;
-  color: #E01E5A;
-  border-radius: 30px;
-  box-sizing: border-box;
-  border: 2px solid #E01E5A;
-}
-</style>
 
 <br/>
 
@@ -82,7 +50,7 @@ postList: none
 <dependency>
     <groupId>com.yomahub</groupId>
     <artifactId>liteflow-spring-boot-starter</artifactId>
-    <version>2.9.0</version>
+    <version>2.9.1</version>
 </dependency>
 ```
 
