@@ -3,7 +3,7 @@ home: true
 heroImage: /img/logo.svg
 heroText: LiteFlow
 tagline: 🚀Small but powerful rules engine
-actionText: 🧩Version 2.9.2 Release!
+actionText: 🧩Version 2.9.3 Release!
 actionLink: /pages/5816c5/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 features: # 可选的
@@ -28,7 +28,7 @@ postList: none
 * **<font color=#E01E5A>Lightweight rules:</font>** Based on the rules file to orchestrate the process, it only takes 5 minutes to learn the rules to get started.
 * **<font color=#E01E5A>Multiple formats:</font>** The rules support xml, json and yml.
 * **<font color=#E01E5A>Arbitrary arrangement:</font>** With LiteFlow rules you can easily do synchronous asynchronous mixing, and you can know how the logic works from the rules file.
-* **<font color=#E01E5A>Rules can be loaded from anywhere:</font>** The framework provides local file configuration source and zk configuration source implementation, also provides an extension interface, you can store the rules anywhere.
+* **<font color=#E01E5A>Rules can be loaded from anywhere:</font>** The framework natively supports storing rules in standard structured databases, Nacos, Etcd, Zookeeper. You can also extend it yourself and store the rules anywhere.
 * **<font color=#E01E5A>Hot Refresh:</font>** Rules change without restarting your application, changing the rules of your application instantly. Refreshing under high concurrency will not cause any misalignment.
 * **<font color=#E01E5A>Wide support:</font>** LiteFlow works regardless of whether your project is built on Springboot, Spring or any other java framework.
 * **<font color=#E01E5A>JDK Support:</font>** Support from JDK8 to JDK17. No need to worry about the JDK version.
@@ -50,7 +50,7 @@ postList: none
 <dependency>
     <groupId>com.yomahub</groupId>
     <artifactId>liteflow-spring-boot-starter</artifactId>
-    <version>2.9.2</version>
+    <version>2.9.3</version>
 </dependency>
 ```
 
@@ -91,7 +91,7 @@ Thanks to OSCHINA and Gitee official platform for recommending and recognizing L
 
 ## 🍭Architecture Diagram
 
-<img :src="$withBase('/img/arch.png')" style="zoom: 120%" class="no-zoom">
+<img :src="$withBase('/img/arch.svg')" style="zoom: 100%" class="no-zoom">
 
 <br/><br/>
 
